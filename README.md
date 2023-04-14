@@ -47,6 +47,11 @@ Yes, chronic absenteeism has a negative impact on academic performance. In the c
 
 Based on the metrics above, the Data and Assessment Team recommends amending the local attendance policy just for this year as it is not plausible to retain 48% (504) per our current attendance policy. There is also the option to recommend that students must report to summer school, or they’ll be retained.
 
+## Appendix
 
+- Access State Chronic Absenteeism Data [HERE](https://docs.google.com/spreadsheets/d/1tYBYOjEi02xJIqlbTyOadN11QqjYNSIVQyhUPFFmtKI/edit?usp=sharing)
+- Access iReady Data [HERE](https://docs.google.com/spreadsheets/d/1opeZ3PVrae5bj0Th1ZQHhNsL9OHUtD8RE8CQCn4siHY/edit?usp=sharing)
+- Access Local Attendance Policy Data [HERE](https://docs.google.com/spreadsheets/d/18_DldAEqdSYaYq70o4kKCigg-tyaNoyF3-ITlw4tjdg/edit?usp=sharing)
+- Access Student Attendance Data Analysis Slide Deck [HERE](https://docs.google.com/presentation/d/1LiC-1zHtYFMJT1-lfttRfSwkrsWzWfApraFumBWUOoM/edit?usp=sharing)
 
 
