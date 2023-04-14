@@ -1,0 +1,1049 @@
+Student_First_Name,Student_Last_Name,Student_School_ID,Student_Grade_Level,School_Present_Count,School_Not_Taken_Count,School_Absence_Count,School_Absence_Count_1,School_Unexcused_Lateness_Count,Gender,Race_1,Race_2,Ethnicity,Has_IEP_,Student_has_504_,Is_ESL_ELL_,School_Lateness_Count
+Kin***,Abd***,368***,9,125,0,0,0,3,Male,,,Not Hispanic Or Latino,false,false,false,20
+Pri***,Abd***,371***,11,123,0,0,0,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,22
+Joa***,Ace***,184***,12,129,0,10,10,4,Female,,,Hispanic Or Latino,false,false,false,6
+Chr***,Agu***,237***,12,78,0,25,25,38,Male,,,Hispanic Or Latino,false,false,false,42
+Ke'***,All***,185***,12,74,0,21,21,42,Male,Black or African American,,Hispanic Or Latino,true,false,false,50
+Dar***,Alv***,236***,11,128,0,2,2,10,Female,,,Hispanic Or Latino,false,false,false,15
+Yar***,Alv***,187***,9,118,0,9,9,14,Female,,,Hispanic Or Latino,true,false,true,18
+Ari***,And***,266***,11,24,0,15,15,82,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,106
+Ma'***,And***,357***,10,100,0,22,22,20,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,23
+Bra***,Apa***,216***,11,116,0,5,5,18,Male,White,,Hispanic Or Latino,false,false,true,24
+Mia***,Apa***,104***,10,114,0,9,9,16,Female,,,Hispanic Or Latino,true,false,false,22
+Ale***,Apo***,100***,12,121,0,12,12,12,Male,,,Hispanic Or Latino,false,false,false,12
+Jan***,Apo***,190***,9,105,0,29,29,10,Female,,,Hispanic Or Latino,false,false,false,11
+Cat***,Arg***,191***,9,136,0,1,1,8,Female,,,Hispanic Or Latino,true,false,false,8
+Bra***,Arm***,192***,9,27,0,16,16,80,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,102
+Kas***,Asm***,101***,12,109,0,13,13,20,Female,Not Specified,,Hispanic Or Latino,false,false,false,23
+Asa***,Aus***,182***,11,142,0,2,2,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Syd***,Bal***,227***,9,109,0,10,10,21,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,26
+Sha***,Bal***,208***,12,54,0,31,31,47,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,60
+Hen***,Bar***,103***,12,109,0,16,16,19,Male,,,Hispanic Or Latino,true,false,false,20
+Isa***,Bar***,104***,10,45,1,41,41,41,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,58
+She***,Baz***,106***,10,52,0,19,19,58,Female,,,Hispanic Or Latino,false,false,false,74
+Kay***,Bel***,203***,10,138,0,7,7,0,Female,,,Hispanic Or Latino,false,false,false,0
+Nev***,Bet***,331***,10,93,0,18,18,15,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,34
+Mar***,Boc***,217***,10,136,0,1,1,8,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Rav***,Bon***,262***,10,129,1,11,11,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Ali***,Bon***,106***,12,47,0,11,11,68,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,87
+Ary***,Bor***,229***,9,101,0,7,7,26,Female,,,Hispanic Or Latino,false,false,false,37
+Kem***,Boy***,194***,9,145,0,0,0,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Qua***,Bra***,186***,12,50,0,10,10,66,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,85
+Ima***,Bro***,186***,11,69,0,13,13,54,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,63
+MiK***,Bro***,187***,11,131,0,12,12,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Ray***,Bro***,297***,9,112,0,11,11,16,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,22
+Cal***,Bur***,335***,11,73,0,24,24,34,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,48
+San***,Bur***,298***,10,93,0,8,8,40,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,44
+Ang***,Cab***,323***,10,14,2,3,3,4,Female,White,,Hispanic Or Latino,false,false,false,5
+Kim***,Cal***,219***,10,110,0,15,15,16,Female,White,,Hispanic Or Latino,false,false,false,20
+Ste***,Cal***,218***,9,109,0,15,15,14,Male,Black or African American,,Hispanic Or Latino,false,false,false,21
+Lui***,Cal***,239***,9,65,0,9,9,52,Male,,,Hispanic Or Latino,false,false,true,71
+Lyn***,Car***,197***,9,90,0,4,4,43,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,51
+Jos***,Car***,237***,11,141,0,3,3,1,Male,,,Hispanic Or Latino,false,false,false,1
+Jon***,Car***,220***,12,141,0,0,0,0,Male,White,,Hispanic Or Latino,false,false,false,4
+Wil***,Car***,501***,10,89,0,1,1,1,Male,White,,Hispanic Or Latino,false,false,false,1
+Ang***,Cas***,198***,9,143,0,1,1,0,Male,,,Hispanic Or Latino,false,false,false,1
+Fre***,Cha***,145***,10,115,0,3,3,23,Male,,,Hispanic Or Latino,false,false,false,27
+Kev***,Cha***,285***,12,120,0,11,11,6,Male,,,Hispanic Or Latino,false,false,true,14
+Nic***,Cha***,110***,12,99,0,21,21,17,Male,,,Hispanic Or Latino,false,false,false,25
+Jas***,Chi***,109***,9,128,0,11,11,3,Male,White,,Hispanic Or Latino,false,false,false,6
+Hob***,Chu***,237***,11,136,0,4,4,5,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Emi***,CiF***,235***,10,92,0,7,7,22,Female,Native Hawaiian or Other Pacific Islander,,Hispanic Or Latino,false,false,false,25
+Ale***,Cla***,278***,12,60,0,21,21,54,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,64
+Bra***,Cla***,299***,10,102,0,5,5,26,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,38
+Jle***,Cla***,328***,9,83,0,4,4,55,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,58
+Par***,Cla***,199***,9,104,0,5,5,24,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,36
+Rya***,Cla***,350***,10,106,0,13,13,16,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,26
+Yaz***,Cla***,111***,12,115,0,19,19,9,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,11
+Mat***,Col***,280***,12,12,0,69,69,54,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,64
+Lau***,Col***,113***,12,101,0,11,11,21,Female,,,Hispanic Or Latino,false,false,false,33
+Jan***,Cor***,435***,12,80,0,17,17,33,Male,,,Hispanic Or Latino,false,false,false,48
+Ken***,Cor***,115***,12,128,0,5,5,11,Male,,,Hispanic Or Latino,false,false,false,12
+Bri***,Cor***,202***,9,107,0,17,17,12,Female,,,Hispanic Or Latino,false,false,false,21
+Zio***,Cos***,230***,9,124,0,5,5,12,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,16
+Aza***,Cov***,323***,11,50,0,9,9,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Fer***,Coy***,189***,11,138,0,6,6,1,Male,,,Hispanic Or Latino,false,false,false,1
+Mia***,Coy***,241***,12,135,0,10,10,0,Female,,,Hispanic Or Latino,false,false,false,0
+Aka***,Cro***,111***,10,91,0,3,3,38,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,51
+Dan***,Cru***,213***,10,59,0,12,12,62,Male,,,Hispanic Or Latino,false,false,false,74
+Mad***,Cru***,202***,9,107,0,5,5,28,Female,,,Hispanic Or Latino,false,false,false,33
+Hec***,Cru***,203***,9,143,0,2,2,0,Male,,,Hispanic Or Latino,false,false,false,0
+Mel***,Dar***,188***,12,79,0,32,32,29,Female,,,Hispanic Or Latino,false,false,false,34
+Jes***,Dav***,225***,10,93,0,7,7,37,Male,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,true,false,false,45
+Kim***,Dav***,112***,10,54,0,32,32,41,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,59
+Noa***,Dav***,242***,12,84,0,13,13,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,48
+Nad***,Dej***,275***,11,135,0,3,3,5,Female,,,Hispanic Or Latino,true,false,false,7
+Jah***,Den***,224***,9,128,0,14,14,3,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,3
+Jen***,Don***,243***,12,60,0,35,35,38,Female,,,Hispanic Or Latino,false,false,false,50
+Jos***,Dub***,231***,9,136,0,8,8,1,Male,,,Hispanic Or Latino,false,false,false,1
+Kay***,Dun***,287***,12,73,0,25,25,39,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,47
+Gav***,Edg***,114***,10,131,1,5,5,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Ah'***,Edl***,302***,10,136,0,2,2,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Ema***,Ell***,232***,9,73,0,8,8,56,Female,,,Hispanic Or Latino,false,false,false,64
+Tah***,Epp***,219***,9,97,0,22,22,19,Male,Black or African American,,Hispanic Or Latino,false,false,false,26
+Emo***,Eug***,184***,12,133,0,4,4,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Mal***,Fen***,232***,10,132,0,8,8,4,Male,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,false,false,false,5
+Dan***,Fer***,303***,10,128,0,1,1,12,Male,,,Hispanic Or Latino,false,false,false,16
+Orl***,Fer***,244***,11,123,0,3,3,17,Male,,,Hispanic Or Latino,false,false,false,19
+Cri***,Fia***,229***,10,83,0,14,14,28,Male,White,,Hispanic Or Latino,false,false,false,31
+M's***,Fle***,360***,9,137,0,1,1,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Kat***,Fra***,206***,9,129,0,11,11,3,Female,,,Hispanic Or Latino,false,false,false,5
+Ant***,Gar***,207***,9,112,0,2,2,27,Male,,,Hispanic Or Latino,true,false,false,31
+Est***,Gar***,221***,11,55,0,11,11,66,Female,White,,Hispanic Or Latino,false,false,true,79
+Nod***,Gar***,264***,12,134,0,9,9,1,Female,,,Hispanic Or Latino,true,false,false,2
+Tau***,Gar***,193***,11,126,0,5,5,11,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Hen***,Gar***,258***,9,136,0,3,3,4,Male,,,Hispanic Or Latino,false,false,false,6
+Nev***,Gel***,271***,11,129,0,11,11,4,Female,Black or African American,,Hispanic Or Latino,false,false,false,5
+And***,God***,208***,9,94,0,4,4,36,Male,,,Hispanic Or Latino,false,false,false,47
+Jos***,Gon***,239***,11,98,0,18,18,22,Male,,,Hispanic Or Latino,false,false,false,29
+Cin***,Gon***,211***,12,138,0,3,3,4,Female,,,Hispanic Or Latino,false,false,false,4
+Wil***,Gon***,306***,10,139,0,5,5,0,Male,,,Hispanic Or Latino,false,false,false,1
+Dan***,Goo***,251***,12,44,0,12,12,71,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,89
+Jai***,Gor***,411***,9,54,0,42,42,9,Male,Black or African American,,Hispanic Or Latino,false,false,false,9
+Jes***,Gor***,121***,12,87,0,38,38,15,Female,Black or African American,,Hispanic Or Latino,false,false,false,20
+Ash***,Gra***,234***,10,102,0,21,21,10,Female,White,,Hispanic Or Latino,false,false,false,22
+Rah***,Gra***,196***,11,118,0,4,4,14,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,23
+Aly***,Gre***,210***,9,70,0,19,19,42,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,56
+Tri***,Gre***,289***,11,137,0,3,3,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Aun***,Gri***,197***,11,132,0,10,10,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Dar***,Gut***,227***,10,137,1,4,4,1,Female,,,Hispanic Or Latino,false,false,false,3
+Cha***,Hen***,125***,12,74,0,36,36,28,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,35
+Edd***,Her***,246***,9,142,0,0,0,2,Male,,,Hispanic Or Latino,false,false,false,3
+Dyl***,Her***,126***,12,87,0,6,6,40,Male,,,Hispanic Or Latino,false,false,false,52
+Jam***,Her***,128***,12,111,0,11,11,18,Male,,,Hispanic Or Latino,false,false,false,23
+Led***,Her***,103***,10,142,1,1,1,1,Female,,,Hispanic Or Latino,false,false,false,1
+Wil***,Her***,260***,11,128,1,6,6,8,Male,,,Hispanic Or Latino,false,false,false,10
+Des***,Hil***,358***,10,63,1,11,11,49,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,70
+Edw***,Hil***,146***,10,121,1,16,16,6,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,7
+Ter***,Hil***,378***,9,114,0,21,21,5,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,10
+Abr***,How***,307***,10,92,0,5,5,35,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,48
+Par***,Hug***,343***,11,130,0,8,8,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Ede***,Ine***,192***,9,125,0,6,6,12,Male,,,Hispanic Or Latino,false,false,true,14
+Hea***,Ing***,214***,9,143,0,1,1,0,Female,Black or African American,,Hispanic Or Latino,true,false,false,1
+Key***,Ing***,129***,12,131,0,9,9,3,Female,Black or African American,,Hispanic Or Latino,true,false,false,5
+Key***,Ing***,250***,10,106,0,7,7,23,Female,Not Specified,,Not Specified,false,false,false,32
+Nas***,Ing***,247***,12,37,0,30,30,69,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,78
+Noe***,Ing***,200***,11,132,1,6,6,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Jad***,Jen***,248***,11,101,0,16,16,21,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,28
+Mak***,Jen***,215***,9,95,0,16,16,24,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,34
+Las***,Joh***,237***,9,66,0,10,10,57,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,69
+Zyi***,Jon***,132***,12,80,0,19,19,39,Female,Black or African American,,Not Hispanic Or Latino,false,true,false,46
+Kim***,Jov***,196***,10,141,1,1,1,2,Female,,,Hispanic Or Latino,false,false,false,2
+Kar***,Jua***,210***,12,63,0,17,17,55,Female,,,Hispanic Or Latino,false,false,false,65
+Yve***,Jui***,206***,10,41,1,9,9,77,,Black or African American,,Not Hispanic Or Latino,false,false,true,94
+Aal***,Jus***,193***,9,105,0,13,13,22,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,27
+Ziv***,Kel***,322***,12,73,0,60,60,10,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,12
+Nev***,Kin***,249***,9,142,0,0,0,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Cam***,Kri***,251***,11,38,0,61,61,37,Male,White,,,true,false,false,46
+Jes***,Lan***,424***,11,134,1,6,6,3,Female,,,Hispanic Or Latino,false,false,false,4
+And***,Leg***,250***,12,109,0,14,14,16,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,22
+Mic***,Leo***,310***,10,104,1,9,9,25,Male,,,Hispanic Or Latino,false,false,false,31
+Pau***,Leo***,206***,11,108,0,8,8,24,Female,,,Hispanic Or Latino,false,false,false,29
+Ema***,Lew***,219***,9,123,0,5,5,12,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,17
+Chr***,Lop***,204***,10,106,1,14,14,22,Male,,,Hispanic Or Latino,true,false,false,24
+Chr***,Lop***,205***,10,107,1,13,13,21,Male,,,Hispanic Or Latino,false,false,false,24
+Uri***,Lop***,251***,11,130,1,7,7,6,Male,,,Hispanic Or Latino,false,false,false,7
+Ani***,Lop***,251***,12,134,0,5,5,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Jus***,Lor***,323***,11,56,3,3,3,13,Male,Black or African American,,Hispanic Or Latino,false,false,false,14
+Hal***,Luc***,148***,10,131,1,9,9,3,Female,,,Hispanic Or Latino,false,false,false,4
+Kat***,Luc***,425***,11,127,1,16,16,0,Female,,,Hispanic Or Latino,false,false,false,1
+Sas***,Luc***,212***,11,128,0,3,3,10,Female,,,Hispanic Or Latino,false,false,false,14
+Fel***,Mai***,213***,11,109,0,1,1,26,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,35
+Haf***,Mal***,135***,12,134,0,8,8,3,Female,,,,false,false,false,3
+Joc***,Mar***,222***,9,135,0,9,9,1,Female,White,,Hispanic Or Latino,false,false,false,1
+Ray***,Mar***,363***,12,62,0,42,42,35,Male,,,Hispanic Or Latino,false,false,false,41
+Lor***,Mat***,228***,10,105,0,3,3,34,Female,White,,Hispanic Or Latino,false,false,false,37
+Mel***,McK***,147***,10,127,1,7,7,6,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Jan***,Mcl***,223***,9,131,0,3,3,10,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,11
+Sha***,Mea***,322***,9,102,0,0,0,39,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,43
+Jos***,Mej***,191***,10,117,1,4,4,19,Male,,,Hispanic Or Latino,false,false,false,23
+Yun***,Men***,236***,9,25,0,34,34,57,Male,White,,Hispanic Or Latino,false,false,false,60
+Jeu***,Mer***,275***,11,120,0,6,6,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,19
+Noa***,Mer***,224***,9,128,0,3,3,6,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Chy***,Mit***,438***,12,98,0,23,23,19,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,24
+Ta'***,Mit***,100***,10,132,0,9,9,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Mad***,Mon***,136***,12,33,0,80,80,26,Female,,,Hispanic Or Latino,true,false,false,32
+Bri***,Mon***,234***,10,129,1,3,3,9,Male,,,Hispanic Or Latino,false,false,false,12
+Emm***,Mor***,193***,12,117,0,9,9,17,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,19
+Dia***,Mor***,270***,12,107,0,10,10,21,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,28
+Sel***,Moy***,216***,11,78,0,15,15,45,Female,,,Hispanic Or Latino,false,false,false,52
+Azz***,Mur***,194***,12,121,0,8,8,10,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,16
+Don***,Mus***,126***,10,98,0,31,31,15,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,16
+Jam***,Mus***,288***,12,102,0,29,29,11,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Tay***,Mus***,225***,9,95,0,21,21,25,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,29
+Jef***,Naj***,218***,11,124,1,2,2,16,Male,,,Hispanic Or Latino,false,false,false,18
+Ako***,Nay***,127***,10,103,1,13,13,11,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,28
+Aze***,Nay***,128***,10,112,0,12,12,11,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,21
+Ala***,Naz***,203***,9,129,0,5,5,9,Female,,,Hispanic Or Latino,false,false,false,11
+Zai***,Naz***,212***,11,102,1,15,15,19,Male,,,Hispanic Or Latino,false,false,false,27
+Gia***,Naz***,235***,9,137,0,7,7,1,Female,,,Hispanic Or Latino,false,false,false,1
+Kay***,Naz***,314***,10,139,1,4,4,1,Female,,,Hispanic Or Latino,false,false,false,1
+Isa***,Nes***,426***,10,115,1,6,6,19,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,23
+Fav***,Ngi***,252***,12,116,0,4,4,11,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,25
+Joh***,Noe***,253***,12,122,0,5,5,14,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,18
+Isa***,Now***,500***,11,10,0,16,16,66,Male,Native Hawaiian or Other Pacific Islander,,Not Hispanic Or Latino,false,false,false,73
+Joc***,Nun***,276***,11,140,1,1,1,2,Female,,,Hispanic Or Latino,false,true,false,3
+Jay***,Oli***,230***,10,40,0,24,24,68,Male,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,false,false,false,81
+Jay***,Oli***,231***,10,41,0,23,23,68,Female,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,false,false,false,81
+Eri***,Ort***,130***,10,120,1,23,23,1,Male,,,Hispanic Or Latino,true,false,false,1
+Jos***,Ort***,221***,11,122,0,6,6,11,Male,,,Hispanic Or Latino,false,false,false,17
+Mah***,Ort***,254***,12,80,0,23,23,34,Female,,,Hispanic Or Latino,false,false,false,42
+Mis***,Ort***,236***,9,123,0,5,5,12,Male,,,Hispanic Or Latino,true,false,false,17
+Ash***,Ort***,255***,12,131,0,13,13,1,Female,,,Hispanic Or Latino,false,false,false,1
+Ang***,Pan***,195***,9,136,0,8,8,0,Male,,,Hispanic Or Latino,false,false,false,1
+Sam***,Pat***,257***,9,89,0,10,10,41,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,46
+Day***,Pen***,271***,11,108,0,8,8,25,Female,,,Hispanic Or Latino,false,false,false,29
+Eme***,Per***,207***,11,87,0,12,12,28,Female,,,Hispanic Or Latino,false,false,false,46
+Jon***,Per***,377***,9,89,0,10,10,29,Male,,,Hispanic Or Latino,false,false,false,46
+Isa***,Per***,229***,9,118,0,3,3,21,Female,,,Hispanic Or Latino,false,false,false,24
+Sha***,Pet***,196***,12,118,0,11,11,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,16
+Ros***,Pin***,227***,9,133,0,4,4,6,Female,,,Hispanic Or Latino,false,false,false,8
+Azi***,Poo***,257***,12,131,0,9,9,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Ang***,Por***,239***,9,141,0,3,3,1,Female,,,Hispanic Or Latino,false,false,false,1
+Nat***,Por***,258***,12,139,0,5,5,1,Female,,,Hispanic Or Latino,false,false,false,1
+Bry***,Por***,277***,11,31,0,24,24,80,Male,,,Hispanic Or Latino,false,false,false,90
+Dam***,Pot***,102***,10,139,0,4,4,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Gen***,Ram***,240***,9,94,0,5,5,40,Female,,,Hispanic Or Latino,false,false,false,46
+Ja'***,Rea***,225***,10,132,0,0,0,9,Female,Black or African American,,Not Hispanic Or Latino,false,true,false,13
+Jor***,Rey***,436***,12,108,0,17,17,14,Male,,,Hispanic Or Latino,false,false,false,20
+Ame***,Rhy***,315***,10,101,0,5,5,31,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,39
+Cin***,Riv***,140***,12,106,0,14,14,19,Female,,,Hispanic Or Latino,false,false,false,25
+Raf***,Riv***,131***,10,52,0,50,50,33,Male,,,Hispanic Or Latino,false,false,false,43
+Leo***,Riv***,198***,12,120,0,10,10,12,Male,,,Hispanic Or Latino,false,false,false,15
+Zec***,Rob***,132***,9,129,0,6,6,6,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,10
+Neh***,Rob***,252***,11,133,1,9,9,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Shi***,Rob***,220***,9,140,0,5,5,0,Female,Black or African American,,Not Specified,false,false,false,0
+Tat***,Rob***,316***,9,142,0,0,0,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Jos***,Rob***,264***,10,122,0,12,12,10,Male,,,Hispanic Or Latino,true,false,false,11
+Vic***,Rod***,253***,11,112,0,2,2,23,Male,,,Hispanic Or Latino,true,false,false,31
+Sha***,Rod***,323***,10,17,2,1,1,0,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,true,false,1
+Mar***,Rod***,142***,12,91,0,51,51,2,Female,,,Hispanic Or Latino,false,false,false,3
+Car***,Rod***,205***,9,133,0,8,8,4,Male,,,Hispanic Or Latino,false,false,false,4
+Mal***,Rog***,134***,10,129,0,6,6,5,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Zio***,Rog***,145***,11,96,0,41,41,4,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,8
+Yoh***,Roj***,200***,12,96,0,18,18,23,Female,,,Hispanic Or Latino,false,false,false,31
+Nea***,Rom***,244***,9,117,0,3,3,19,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,25
+Tat***,Ron***,182***,9,52,0,13,13,63,Female,Black or African American,,Hispanic Or Latino,false,false,false,80
+Mek***,Rop***,135***,10,101,0,11,11,26,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,33
+Ani***,Ros***,255***,11,74,0,21,21,31,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,50
+Lon***,Ros***,136***,10,80,0,10,10,33,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,55
+Dia***,Row***,226***,11,88,0,13,13,28,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,44
+Neh***,Rui***,138***,10,136,0,3,3,4,Male,,,Hispanic Or Latino,false,false,false,6
+Nel***,Rui***,137***,10,137,0,7,7,1,Male,,,Hispanic Or Latino,false,false,false,1
+Nat***,Rui***,227***,11,96,1,14,14,28,Female,,,Hispanic Or Latino,false,false,false,34
+Jaz***,Sai***,366***,10,80,0,18,18,37,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,47
+Van***,Sam***,146***,12,60,0,16,16,53,Female,,,Hispanic Or Latino,true,false,false,69
+Noe***,Sam***,256***,11,114,0,11,11,10,Female,,,Hispanic Or Latino,false,false,false,20
+Jon***,San***,228***,11,100,0,2,2,32,Male,,,Hispanic Or Latino,false,false,false,43
+Eli***,San***,245***,9,69,0,20,20,50,Female,,,Hispanic Or Latino,false,false,false,56
+Bju***,Sea***,215***,10,39,0,3,3,86,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,103
+Car***,Sea***,241***,11,39,1,3,3,82,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,102
+Amy***,Sep***,241***,12,83,0,35,35,24,Female,,,Hispanic Or Latino,false,false,false,27
+Azi***,Shr***,323***,10,109,0,6,6,22,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,30
+Jef***,Sil***,330***,9,138,0,5,5,2,Male,,,Hispanic Or Latino,false,false,false,2
+Ser***,Sim***,324***,10,62,0,20,20,51,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,63
+Myr***,Sma***,200***,12,75,0,21,21,36,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,49
+Mad***,Sma***,202***,11,77,0,16,16,39,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,52
+Dev***,Smi***,152***,10,139,0,5,5,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Joh***,Smi***,201***,12,83,0,21,21,32,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,41
+Jon***,Smi***,202***,12,111,0,7,7,20,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,27
+Aq'***,Smi***,204***,10,32,0,70,70,35,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,43
+Sha***,Smi***,317***,10,130,0,13,13,1,Female,Black or African American,,Not Hispanic Or Latino,false,true,false,2
+Xav***,Smi***,266***,12,138,0,6,6,0,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,1
+Ant***,Soc***,139***,10,139,0,5,5,1,Male,,,Hispanic Or Latino,true,false,false,1
+Mar***,Sou***,280***,11,61,0,10,10,57,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,74
+Mar***,Sou***,279***,11,61,0,10,10,60,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,74
+A'm***,Spe***,248***,9,131,0,5,5,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,9
+Ric***,Ste***,413***,9,60,0,9,9,32,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,36
+Sha***,Ste***,412***,10,54,0,8,8,40,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,43
+Joh***,Ste***,285***,11,73,0,14,14,41,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,58
+Niy***,Ste***,249***,9,129,0,8,8,4,Female,Black or African American,,Hispanic Or Latino,false,false,false,8
+Nev***,Swe***,250***,9,124,0,8,8,10,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,13
+Mar***,Tax***,281***,11,133,0,8,8,0,Female,,,Hispanic Or Latino,false,false,false,4
+Bry***,Tel***,251***,9,134,0,8,8,2,Male,,,Hispanic Or Latino,false,false,false,3
+Bri***,Tel***,140***,10,137,0,7,7,1,Female,,,Hispanic Or Latino,false,false,false,1
+Bri***,Tho***,230***,9,127,0,9,9,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,9
+Jen***,Tho***,149***,12,141,0,2,2,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Jef***,Tho***,228***,10,112,0,18,18,10,Male,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,false,false,false,15
+Qua***,Tho***,213***,12,59,0,21,21,52,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,65
+Zyn***,Tho***,253***,9,141,0,4,4,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jay***,Tin***,242***,12,121,0,4,4,14,Female,,,Hispanic Or Latino,false,false,false,20
+Jay***,Tin***,243***,12,83,0,18,18,32,Male,,,Hispanic Or Latino,true,false,false,44
+Mel***,Too***,282***,11,120,0,7,7,14,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,18
+Gis***,Tor***,150***,12,124,0,10,10,8,Female,,,Hispanic Or Latino,false,false,false,11
+Jef***,Tri***,217***,10,27,0,74,74,33,Male,,,Hispanic Or Latino,false,false,false,44
+Kah***,Tur***,232***,9,49,0,7,7,63,Male,Black or African American,,Not Specified,false,false,false,75
+Sha***,Tur***,224***,11,53,0,26,26,58,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,66
+Mar***,Url***,263***,12,84,0,32,32,16,Male,,,Hispanic Or Latino,false,false,false,29
+Jus***,Val***,254***,9,132,0,3,3,8,Male,,,Hispanic Or Latino,false,false,false,10
+Dee***,Vic***,152***,12,135,0,7,7,2,Female,,,Hispanic Or Latino,false,false,false,3
+Naz***,Vic***,153***,12,99,0,17,17,21,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,29
+Ali***,Wai***,258***,11,130,1,8,8,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Cam***,Wal***,367***,9,75,0,20,20,36,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,50
+Cia***,War***,427***,10,61,0,4,4,63,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,80
+Bra***,Was***,224***,10,108,0,14,14,16,Male,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,true,false,false,23
+Ame***,Wed***,257***,9,121,0,17,17,6,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Jad***,Wes***,256***,9,115,0,12,12,12,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,18
+Tiy***,Whi***,225***,9,77,0,63,63,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Ani***,Wil***,258***,9,120,0,6,6,19,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,19
+Ani***,Wil***,283***,11,29,0,5,5,85,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,111
+Ani***,Wil***,248***,10,113,0,6,6,19,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,26
+Aur***,Wil***,142***,9,100,0,18,18,20,Male,Black or African American,,Hispanic Or Latino,false,true,false,27
+Nac***,Wil***,259***,11,99,0,13,13,30,Male,Black or African American,,Hispanic Or Latino,false,false,false,33
+Jah***,Woo***,226***,10,110,0,18,18,11,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,17
+Jed***,Wor***,236***,11,132,0,9,9,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Joh***,Yan***,260***,9,139,0,1,1,5,Male,,,Hispanic Or Latino,false,false,false,5
+Bra***,Yan***,227***,10,141,0,0,0,3,Male,White,,Hispanic Or Latino,true,false,false,4
+Dan***,You***,261***,9,118,0,3,3,21,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,24
+Kea***,You***,318***,10,118,0,6,6,12,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,21
+Kez***,You***,229***,10,52,0,12,12,1,Female,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,true,false,false,81
+Kat***,Zav***,273***,12,56,0,11,11,62,Female,,,Hispanic Or Latino,false,false,false,78
+Ta'***,Abd***,101***,8,128,0,3,3,13,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Nae***,Abr***,155***,7,84,1,23,23,31,Female,,,Hispanic Or Latino,false,false,false,37
+Pho***,Agi***,100***,5,131,1,12,12,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Fab***,Agu***,156***,7,119,5,15,15,6,Male,,,Hispanic Or Latino,true,false,false,6
+Ger***,Agu***,333***,8,123,1,13,13,8,Male,,,Hispanic Or Latino,true,false,false,8
+Gab***,Aji***,100***,0,137,0,6,6,0,Male,White,,Hispanic Or Latino,false,false,false,2
+Jos***,Ala***,102***,8,113,0,25,25,7,Male,,,Hispanic Or Latino,false,false,false,7
+Jor***,Alb***,117***,4,126,6,11,11,0,Male,,,Hispanic Or Latino,false,true,false,2
+Ste***,Ale***,100***,3,129,2,12,12,2,Female,,,Hispanic Or Latino,false,false,true,2
+Lyr***,Ale***,100***,2,101,1,3,3,40,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,40
+Mar***,Alm***,414***,3,107,2,1,1,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Ama***,Alp***,244***,4,133,1,9,9,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Pri***,Alp***,101***,0,129,0,12,12,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Wil***,Alp***,102***,2,137,0,6,6,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Eli***,Alv***,118***,4,128,4,9,9,4,Female,,,Hispanic Or Latino,false,false,true,4
+Jas***,Alv***,102***,5,126,1,16,16,2,Male,,,Hispanic Or Latino,false,false,false,2
+Neh***,Alv***,103***,5,130,2,7,7,6,Male,,,Hispanic Or Latino,false,false,true,6
+Log***,Alv***,101***,3,135,3,6,6,0,Male,,,Hispanic Or Latino,false,false,true,1
+Sas***,Alv***,119***,4,132,4,8,8,0,Female,,,Hispanic Or Latino,false,false,true,1
+Fai***,Amm***,323***,4,51,2,9,9,0,Male,American Indian or Alaska Native,,Not Hispanic Or Latino,false,false,false,0
+Lov***,And***,102***,0,119,0,13,13,9,Female,American Indian or Alaska Native,,Not Hispanic Or Latino,false,false,false,13
+M'K***,And***,104***,5,103,5,19,19,18,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,18
+Sam***,And***,323***,8,35,0,1,1,9,Male,Native Hawaiian or Other Pacific Islander,,Not Hispanic Or Latino,false,false,false,9
+Tyr***,And***,209***,5,133,0,2,2,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Adr***,And***,103***,8,142,0,3,3,0,Female,,,Hispanic Or Latino,false,false,false,0
+Jay***,And***,105***,5,138,1,5,5,1,Male,,,Hispanic Or Latino,true,false,false,1
+Fra***,And***,325***,7,136,4,5,5,0,Male,,,Hispanic Or Latino,false,false,false,0
+Zay***,And***,233***,3,119,1,2,2,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Gia***,Apa***,149***,8,132,3,3,3,7,Female,,,Hispanic Or Latino,false,false,false,7
+Yad***,Apa***,102***,3,133,2,6,6,4,Male,,,Hispanic Or Latino,false,false,true,4
+Jos***,Apo***,103***,0,110,1,31,31,1,Male,Black or African American,,Hispanic Or Latino,false,false,false,3
+Jah***,Arg***,106***,5,137,5,2,2,1,Female,,,Hispanic Or Latino,false,false,false,1
+Ana***,Arg***,100***,6,136,2,3,3,3,Female,,,Hispanic Or Latino,false,false,false,4
+Chr***,Arg***,101***,6,140,4,1,1,0,Male,,,Hispanic Or Latino,false,false,false,0
+Ana***,Aus***,104***,8,142,0,3,3,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Don***,Aus***,108***,4,120,4,11,11,10,Male,Black or African American,,Hispanic Or Latino,false,false,false,10
+Ras***,Bai***,104***,2,136,0,4,4,5,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Jy'***,Bak***,160***,7,92,6,8,8,39,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,39
+Gab***,Bal***,126***,6,132,2,5,5,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Bre***,Bar***,105***,2,99,2,17,17,26,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,27
+Ala***,Bar***,106***,2,140,2,3,3,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jef***,Bar***,100***,1,128,1,16,16,0,Male,,,Hispanic Or Latino,false,false,true,0
+Joe***,Bel***,107***,2,74,2,12,12,56,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,57
+Jos***,Bel***,105***,3,82,1,17,17,43,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,45
+Kam***,Bel***,106***,3,63,0,3,3,77,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,79
+Joh***,Ber***,107***,3,142,2,1,1,0,Female,,,Hispanic Or Latino,false,false,false,0
+Jos***,Ber***,106***,8,139,0,5,5,0,Male,,,Hispanic Or Latino,false,false,false,1
+Sam***,Ber***,101***,4,127,5,7,7,6,Male,White,,Hispanic Or Latino,false,false,false,6
+Jef***,Ber***,102***,1,136,1,2,2,6,,White,,Hispanic Or Latino,false,false,true,6
+Jef***,Ber***,104***,0,136,0,4,4,5,Male,White,,Hispanic Or Latino,false,false,false,5
+Jel***,Ber***,105***,5,138,1,0,0,6,Female,White,,Hispanic Or Latino,false,false,false,6
+Sa'***,Ber***,167***,6,102,1,18,18,23,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,24
+Jer***,Big***,161***,6,130,2,10,10,3,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,3
+Jay***,Bil***,225***,3,118,1,15,15,10,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,11
+Ny'***,Bon***,107***,0,135,1,8,8,1,Female,Black or African American,,,false,false,false,1
+Nal***,Boo***,226***,1,133,1,7,7,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Jef***,Bor***,163***,7,127,5,6,6,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Any***,Bra***,103***,1,139,1,4,4,0,Male,Black or African American,,,false,false,false,1
+Jos***,Bra***,110***,3,94,2,12,12,36,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,37
+Jou***,Bri***,210***,3,133,3,4,4,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Xyv***,Bri***,200***,7,137,4,4,4,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Ca'***,Bri***,164***,7,123,4,10,10,6,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Gio***,Bro***,109***,5,137,1,7,7,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jas***,Bro***,109***,0,66,0,30,30,49,Male,Black or African American,,Hispanic Or Latino,false,false,false,49
+Myk***,Bro***,181***,8,133,0,6,6,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Sel***,Bro***,108***,8,128,2,9,9,4,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,6
+Uri***,Bro***,110***,5,107,1,21,21,16,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,16
+Xav***,Bro***,110***,3,70,1,28,28,45,Male,Black or African American,,Hispanic Or Latino,false,false,false,46
+Ari***,Bry***,243***,4,115,4,16,16,10,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Bay***,Bry***,108***,2,92,1,21,21,30,Male,Black or African American,,Hispanic Or Latino,false,false,false,31
+Kae***,But***,104***,1,128,1,7,7,9,Female,Black or African American,,,false,false,false,9
+Kam***,But***,207***,3,133,1,2,2,9,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,9
+Jay***,Cab***,111***,5,107,4,13,13,21,Male,,,Hispanic Or Latino,false,false,false,21
+Kay***,Cab***,111***,0,103,1,22,22,19,Female,White,,Hispanic Or Latino,false,false,false,19
+Bra***,Cab***,167***,7,134,4,6,6,0,Male,,,Hispanic Or Latino,false,false,false,1
+Jun***,Cab***,503***,6,74,4,4,4,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Uzz***,Cai***,112***,6,139,2,0,0,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Lei***,Caj***,320***,7,107,4,1,1,33,Female,,,Hispanic Or Latino,false,false,false,33
+Uli***,Cal***,109***,2,117,0,20,20,8,Male,,,Hispanic Or Latino,false,false,true,8
+Ana***,Cal***,113***,5,110,4,7,7,23,Female,,,Hispanic Or Latino,false,false,false,24
+Moh***,Cam***,113***,3,125,1,3,3,16,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,16
+Neh***,Cam***,112***,0,136,0,9,9,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Kay***,Cam***,105***,1,114,1,22,22,6,Female,Black or African American,,,false,false,false,8
+Ili***,Can***,113***,6,132,4,8,8,1,Female,,,Hispanic Or Latino,false,false,false,1
+Mar***,Can***,201***,7,125,4,8,8,7,Female,,,Hispanic Or Latino,false,false,false,8
+Jon***,Can***,196***,5,132,5,3,3,5,Male,,,Hispanic Or Latino,false,false,false,5
+Abb***,Car***,113***,5,141,1,2,2,1,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,1
+Dan***,Car***,110***,2,121,1,20,20,3,Male,,,Hispanic Or Latino,false,false,false,3
+Dav***,Car***,115***,6,124,3,12,12,6,Male,,,Hispanic Or Latino,false,false,false,6
+Eth***,Car***,114***,0,140,0,5,5,0,Male,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,0
+Mar***,Car***,116***,6,122,4,5,5,13,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Isa***,Car***,124***,4,124,6,14,14,1,Male,,,Hispanic Or Latino,true,false,false,1
+Eli***,Car***,116***,3,140,2,3,3,0,Female,,,Hispanic Or Latino,false,false,true,0
+Hec***,Car***,111***,2,137,2,6,6,0,Female,,,Hispanic Or Latino,false,false,true,0
+Ari***,Car***,117***,3,126,1,14,14,3,Female,White,,Hispanic Or Latino,false,false,false,4
+Ale***,Cas***,107***,1,39,0,11,11,93,Female,White,,Hispanic Or Latino,false,false,true,95
+Ale***,Cas***,119***,2,39,1,9,9,94,Female,,,Hispanic Or Latino,false,false,false,96
+Vic***,Cas***,112***,2,135,2,7,7,1,Female,,,Hispanic Or Latino,false,false,true,1
+Hei***,Cas***,108***,1,138,1,6,6,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Ixc***,Cas***,117***,6,139,4,2,2,0,Female,,,Hispanic Or Latino,false,false,false,0
+Tyr***,Cau***,118***,5,123,1,11,11,10,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Reb***,Cer***,125***,4,126,6,13,13,0,Female,,,Hispanic Or Latino,false,false,false,0
+Bry***,Cha***,120***,3,141,2,1,1,1,Male,,,Hispanic Or Latino,false,false,true,1
+Dav***,Cha***,114***,5,141,1,1,1,1,Male,,,Hispanic Or Latino,false,false,true,2
+Kin***,Cha***,115***,0,105,0,23,23,17,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,17
+Mak***,Cha***,239***,2,88,2,15,15,19,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,19
+Aub***,Cha***,116***,0,134,0,11,11,0,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,0
+Aud***,Cha***,231***,2,127,2,8,8,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Ari***,Cha***,121***,3,89,1,14,14,41,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,41
+Neh***,Cha***,217***,5,87,1,17,17,39,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,40
+Jef***,Chi***,113***,2,135,2,8,8,0,Male,,,Not Hispanic Or Latino,false,false,true,0
+Nok***,Chu***,271***,7,133,2,8,8,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+And***,Cla***,111***,8,125,3,15,15,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Jay***,Cla***,115***,5,134,1,10,10,0,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,0
+Jou***,Cla***,110***,1,140,1,4,4,0,Female,Black or African American,,,false,false,false,0
+Thi***,Cla***,111***,1,125,1,10,10,9,Male,White,,Hispanic Or Latino,false,false,true,9
+Cia***,Cla***,200***,8,118,0,26,26,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Gor***,Cla***,117***,0,52,0,31,31,61,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,62
+Kal***,Cla***,114***,2,135,1,8,8,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Kam***,Cla***,170***,7,134,4,6,6,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Veg***,Cla***,224***,4,49,3,31,31,61,Male,Black or African American,,Hispanic Or Latino,false,false,false,62
+Sid***,Cla***,115***,2,132,0,8,8,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Jad***,Coa***,112***,8,135,1,6,6,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Gia***,Coc***,122***,3,100,1,8,8,35,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,36
+Min***,Col***,172***,7,101,4,17,17,22,Female,,,Hispanic Or Latino,false,false,false,23
+Mik***,Coo***,116***,2,106,0,12,12,25,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,27
+Hea***,Coo***,118***,1,133,1,7,7,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Gis***,Cop***,161***,2,135,2,8,8,0,Female,,,Hispanic Or Latino,false,false,true,0
+Jef***,Cop***,166***,5,141,1,3,3,0,Male,,,Hispanic Or Latino,false,false,true,0
+Ale***,Cor***,116***,8,89,3,21,21,14,Female,,,Hispanic Or Latino,false,false,false,32
+Jul***,Coy***,126***,4,129,2,13,13,0,Male,,,Hispanic Or Latino,false,false,true,1
+Mak***,Cra***,323***,1,17,0,4,4,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Key***,Cra***,112***,1,121,0,17,17,3,Male,American Indian or Alaska Native,,,false,false,false,7
+Isr***,Cra***,119***,0,107,0,13,13,24,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,25
+Mat***,Cre***,406***,4,113,5,4,4,2,Male,White,,Hispanic Or Latino,false,false,false,2
+Ara***,Cru***,118***,2,138,2,5,5,0,Female,,,Hispanic Or Latino,false,false,false,0
+Mia***,Cru***,120***,0,95,0,16,16,33,Female,White,,Hispanic Or Latino,false,false,false,34
+Jen***,Cru***,123***,3,137,3,5,5,0,Male,,,Hispanic Or Latino,false,false,true,0
+Ath***,Cru***,114***,6,141,4,0,0,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Vic***,Cuc***,115***,2,134,0,8,8,3,Male,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,3
+Bry***,Dan***,121***,0,115,0,18,18,9,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,12
+Bra***,Dav***,123***,1,133,0,8,8,0,Male,White,,Hispanic Or Latino,false,false,false,4
+Aid***,Dav***,116***,1,71,1,12,12,55,Male,Black or African American,,,false,false,false,61
+Ang***,Dav***,119***,5,95,3,29,29,18,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,18
+Azi***,Dav***,262***,8,131,1,10,10,2,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,3
+Jos***,Dav***,117***,1,131,1,4,4,9,Male,Black or African American,,,false,false,false,9
+Kin***,Dav***,124***,3,125,1,19,19,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Lan***,Dav***,120***,2,112,2,7,7,24,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,24
+Mar***,Dav***,174***,7,124,6,12,12,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Mau***,Dav***,125***,3,124,3,17,17,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Mic***,Dav***,118***,1,100,1,23,23,20,Male,Black or African American,,,false,false,false,21
+Miy***,Dav***,116***,5,131,5,9,9,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Rus***,Dav***,120***,6,123,2,20,20,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Za'***,Dav***,126***,3,130,1,11,11,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Zah***,Daw***,124***,0,117,0,28,28,0,Male,Black or African American,,Hispanic Or Latino,false,false,false,0
+Mil***,Del***,121***,2,69,2,6,6,68,Female,,,Hispanic Or Latino,false,false,false,68
+Nei***,Del***,323***,0,61,4,9,9,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Ani***,Del***,176***,7,132,1,7,7,5,Female,Black or African American,,Hispanic Or Latino,false,false,false,5
+Mat***,Del***,130***,4,128,5,5,5,7,Male,Black or African American,,Hispanic Or Latino,false,false,false,7
+Don***,Der***,117***,4,31,0,9,9,104,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,105
+Bri***,Dia***,132***,4,117,4,24,24,0,Female,,,Hispanic Or Latino,false,true,false,0
+Gia***,Dia***,123***,2,138,2,5,5,0,Male,,,Hispanic Or Latino,false,false,true,0
+Joa***,Dia***,122***,2,130,2,10,10,2,Female,,,Hispanic Or Latino,false,false,true,3
+Lay***,Dic***,124***,2,133,2,10,10,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Eli***,Dol***,127***,3,134,3,7,7,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Eli***,Dol***,256***,4,133,6,4,4,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+And***,Don***,121***,8,131,0,14,14,0,Male,,,Hispanic Or Latino,false,false,false,0
+Kay***,Don***,128***,3,136,1,5,5,3,Male,Black or African American,,Hispanic Or Latino,false,false,false,3
+Luk***,Don***,125***,0,139,0,5,5,0,Male,White,,Hispanic Or Latino,false,false,false,1
+Fat***,Don***,177***,7,137,2,2,2,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Vaw***,Don***,122***,7,128,4,6,6,5,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Jou***,Dru***,248***,7,91,3,18,18,32,Male,Black or African American,,Hispanic Or Latino,false,false,false,33
+Ale***,Dub***,182***,7,131,4,10,10,0,Male,,,Hispanic Or Latino,false,false,false,0
+Iva***,Dur***,119***,1,128,1,13,13,3,Male,Black or African American,,,false,false,false,3
+Ash***,Edg***,126***,0,128,0,11,11,6,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Aug***,Edg***,120***,1,128,1,10,10,6,Female,Black or African American,,,false,false,false,6
+Saf***,Edl***,121***,6,132,2,11,11,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Mar***,Edw***,178***,7,127,6,9,9,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+All***,Eli***,127***,5,122,2,9,9,4,Female,White,,Hispanic Or Latino,false,false,false,4
+Bra***,Est***,193***,7,139,1,5,5,0,Male,,,Hispanic Or Latino,false,false,true,0
+Jan***,Est***,323***,8,16,1,3,3,14,Female,White,,Hispanic Or Latino,false,false,false,15
+Jul***,Est***,323***,8,16,1,3,3,14,Female,White,,Hispanic Or Latino,false,false,false,15
+Edg***,Est***,207***,2,133,2,9,9,1,Male,,,Hispanic Or Latino,false,false,true,1
+Ala***,Eut***,124***,7,130,2,2,2,11,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,11
+Jal***,Eut***,125***,8,128,1,6,6,10,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,10
+Dam***,Eva***,122***,6,129,3,8,8,5,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Jac***,Fat***,121***,1,120,0,7,7,13,Male,White,,,false,false,false,18
+Kes***,Fel***,118***,5,109,2,8,8,15,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,26
+Yui***,Fel***,122***,1,134,1,10,10,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Ana***,Fen***,119***,4,111,6,16,16,12,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,12
+Gab***,Fer***,125***,2,141,2,1,1,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Mil***,Fer***,120***,5,136,1,6,6,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Amy***,Fer***,123***,6,136,2,7,7,0,Female,,,Hispanic Or Latino,false,false,false,0
+Cri***,Fer***,126***,1,142,1,2,2,0,Female,,,Not Hispanic Or Latino,false,false,false,0
+Yes***,Fer***,127***,2,144,0,0,0,0,Female,,,Hispanic Or Latino,false,false,false,1
+Ash***,Fia***,121***,5,137,5,3,3,0,Female,,,Hispanic Or Latino,false,false,false,0
+Yoe***,Fia***,126***,8,140,1,3,3,0,Male,,,Hispanic Or Latino,false,false,false,1
+Kor***,Fie***,128***,2,124,2,4,4,15,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,15
+Tyr***,Fin***,122***,5,93,2,5,5,44,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,45
+Jul***,Fle***,242***,3,133,3,2,2,6,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Mac***,Fle***,123***,5,128,5,8,8,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Mar***,Fle***,123***,1,100,1,15,15,29,Male,Black or African American,,,false,false,false,29
+Ang***,Flo***,124***,6,140,2,2,2,0,Female,,,Hispanic Or Latino,false,false,false,1
+Kat***,Flo***,129***,2,135,0,8,8,2,Female,,,Hispanic Or Latino,false,false,true,2
+Tha***,Flo***,234***,3,52,1,12,12,56,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,59
+Isa***,For***,129***,8,123,0,8,8,14,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Zay***,For***,124***,1,130,1,14,14,0,Male,Black or African American,,,false,false,false,0
+Mil***,Fos***,124***,5,94,4,12,12,35,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,35
+Mal***,Fra***,130***,3,129,1,6,6,9,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,9
+Mat***,Fra***,134***,4,130,2,6,6,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Chr***,Fra***,125***,6,129,4,12,12,0,Male,,,Hispanic Or Latino,false,false,true,0
+Itz***,Fra***,125***,5,132,5,8,8,0,Male,,,Hispanic Or Latino,false,false,false,0
+Fre***,Fra***,127***,8,131,0,6,6,6,Male,,,Hispanic Or Latino,false,false,false,8
+Dea***,Fre***,130***,2,143,0,1,1,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Dea***,Fre***,128***,8,143,0,1,1,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Apr***,Ful***,131***,1,106,1,12,12,25,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,26
+Ash***,Fun***,130***,0,108,1,30,30,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Chr***,Fut***,205***,8,92,0,16,16,36,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,37
+Joh***,Gar***,323***,7,40,5,0,0,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Jua***,Gar***,401***,6,118,5,1,1,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Kei***,Gar***,131***,0,144,0,1,1,0,Female,White,,Hispanic Or Latino,false,false,false,0
+May***,Gar***,132***,8,136,3,6,6,0,Female,Not Specified,,Not Hispanic Or Latino,false,false,false,0
+Kev***,Gar***,133***,4,117,2,16,16,10,Male,White,,Hispanic Or Latino,false,false,false,10
+Dyl***,Gar***,135***,4,132,4,9,9,0,Male,,,Hispanic Or Latino,false,false,true,0
+Gio***,Gar***,323***,0,42,4,16,16,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,12
+Mad***,Gar***,323***,5,54,2,0,0,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Jac***,Gar***,134***,0,134,1,10,10,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jas***,Gar***,127***,5,143,1,1,1,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Mic***,Gar***,131***,3,136,3,6,6,0,Female,,,Hispanic Or Latino,false,false,true,0
+Egy***,Gat***,125***,1,115,1,5,5,24,Male,Black or African American,,,false,false,false,24
+Pha***,Gat***,208***,3,117,1,3,3,24,Male,Black or African American,,Hispanic Or Latino,false,false,false,24
+Chr***,Gay***,135***,5,91,4,9,9,40,Male,Black or African American,,Not Specified,false,false,false,41
+Lai***,Gay***,136***,0,93,0,13,13,38,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,39
+Jah***,Gib***,128***,6,76,1,12,12,55,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,56
+Hei***,Gil***,137***,0,136,0,4,4,1,Female,White,,Hispanic Or Latino,false,false,false,5
+And***,Gir***,138***,0,139,0,3,3,2,Male,White,,Hispanic Or Latino,false,false,false,3
+Kat***,Gir***,128***,5,84,0,17,17,42,Female,,,Hispanic Or Latino,false,false,false,44
+Ang***,Gir***,198***,8,75,1,19,19,48,Male,,,Hispanic Or Latino,false,false,false,50
+Dyl***,Gir***,132***,3,74,1,22,22,46,Male,,,Hispanic Or Latino,false,false,true,48
+Tay***,Git***,132***,2,133,0,5,5,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Tyl***,Git***,139***,0,128,1,10,10,6,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Ale***,Gom***,220***,6,132,2,10,10,1,Male,,,Hispanic Or Latino,true,false,false,1
+Bil***,Gon***,230***,7,135,6,4,4,0,Male,,,Hispanic Or Latino,false,false,false,0
+Ant***,Gon***,212***,7,139,4,1,1,1,Male,,,Hispanic Or Latino,false,false,false,1
+Sof***,Gon***,140***,0,138,1,5,5,1,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,1
+Mad***,Gon***,405***,0,122,21,1,1,1,Female,White,,Hispanic Or Latino,false,false,false,1
+Mad***,Gon***,180***,7,141,2,2,2,0,Female,,,Hispanic Or Latino,false,false,true,0
+Wil***,Gon***,130***,5,139,1,4,4,1,Male,,,Hispanic Or Latino,false,false,true,1
+Jac***,Gon***,137***,4,132,4,9,9,0,Male,,,Hispanic Or Latino,false,false,true,0
+Jes***,Gov***,130***,5,133,5,7,7,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Aal***,Gra***,141***,6,134,2,6,6,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Ash***,Gra***,142***,0,136,0,7,7,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Sha***,Gra***,219***,6,126,1,5,5,13,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,13
+Bri***,Gre***,138***,4,128,2,14,14,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+A'm***,Gre***,191***,5,92,0,13,13,40,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,40
+Mek***,Gre***,304***,8,93,1,27,27,23,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,24
+Rog***,Gre***,135***,3,112,3,30,30,0,Male,,,Hispanic Or Latino,false,false,true,0
+Joe***,Gre***,168***,2,104,1,10,10,28,Male,Black or African American,,Hispanic Or Latino,false,false,false,30
+Mak***,Gri***,183***,7,123,2,15,15,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Jay***,Gri***,193***,5,113,1,25,25,6,Female,Black or African American,,Hispanic Or Latino,false,false,false,6
+Jy'***,Gri***,140***,4,133,2,10,10,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Sin***,Gue***,126***,1,117,1,2,2,24,Female,White,,Hispanic Or Latino,false,false,true,25
+May***,Gue***,134***,2,124,0,16,16,5,Female,,,Hispanic Or Latino,false,false,true,5
+Jos***,Gue***,131***,8,122,1,10,10,12,Male,,,Hispanic Or Latino,false,false,false,12
+Jua***,Gue***,141***,4,125,1,9,9,9,Male,,,Hispanic Or Latino,false,false,false,10
+Dio***,Gur***,323***,8,41,0,0,0,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Jad***,Hal***,135***,2,136,1,6,6,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Muf***,Hal***,215***,2,135,1,6,6,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Aal***,Ham***,127***,1,139,1,5,5,0,Female,Black or African American,,,false,false,false,0
+Ask***,Ham***,143***,0,139,1,4,4,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Gil***,Ham***,136***,2,78,0,10,10,55,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,57
+Ma'***,Har***,137***,3,131,1,2,2,10,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,11
+Lon***,Har***,133***,8,131,0,7,7,6,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Jay***,Hay***,261***,6,137,2,6,6,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Dan***,Her***,129***,1,128,1,13,13,1,Male,American Indian or Alaska Native,,Hispanic Or Latino,false,false,true,3
+Vic***,Her***,140***,3,139,3,1,1,0,Female,,,Hispanic Or Latino,false,false,true,2
+Fra***,Her***,139***,3,141,2,1,1,0,Male,,,Hispanic Or Latino,false,false,true,1
+Gus***,Her***,137***,2,133,2,10,10,0,Male,,,Hispanic Or Latino,false,false,true,0
+Lui***,Her***,212***,3,132,2,7,7,1,Male,,,Hispanic Or Latino,false,false,true,4
+Kim***,Her***,330***,7,138,2,4,4,0,Female,,,Hispanic Or Latino,false,false,false,1
+Eld***,Her***,144***,0,130,1,9,9,4,Male,Native Hawaiian or Other Pacific Islander,,Hispanic Or Latino,false,false,false,5
+Eri***,Her***,138***,3,137,2,5,5,0,Female,,,Hispanic Or Latino,false,false,false,1
+San***,Her***,145***,0,127,1,17,17,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Eri***,Her***,144***,4,136,4,5,5,0,Male,,,Hispanic Or Latino,false,false,true,0
+Jac***,Her***,130***,5,128,5,10,10,1,Male,White,,Hispanic Or Latino,false,false,false,2
+Bra***,Her***,143***,3,130,2,5,5,3,Male,,,Hispanic Or Latino,false,false,true,8
+Vic***,Her***,232***,7,132,6,7,7,0,Male,,,Hispanic Or Latino,false,false,false,0
+Jas***,Hid***,200***,8,129,0,10,10,1,Female,,,Hispanic Or Latino,false,false,false,6
+Enr***,Hil***,135***,8,136,0,8,8,1,Male,,,Hispanic Or Latino,false,false,false,1
+Zav***,Hob***,204***,6,123,2,3,3,17,Male,White,Black or African American,Not Hispanic Or Latino,false,false,false,17
+Chl***,Hod***,146***,0,136,1,7,7,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Jon***,Hod***,141***,3,136,2,3,3,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Mon***,Hod***,142***,3,133,2,6,6,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Mor***,Hod***,143***,3,138,1,2,2,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Uas***,Hod***,138***,2,136,0,5,5,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Ani***,Hol***,277***,4,113,4,20,20,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Pha***,Hol***,209***,3,114,2,21,21,8,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Av'***,Hol***,135***,6,115,0,15,15,14,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,15
+Av'***,Hol***,136***,8,115,0,12,12,16,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,18
+Kay***,Hoo***,184***,7,63,74,6,6,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Cha***,Hou***,132***,1,46,0,18,18,77,Male,Black or African American,,,false,false,false,81
+Kha***,How***,133***,0,101,0,41,41,3,Male,Black or African American,,,false,false,false,3
+Kas***,How***,134***,6,105,1,19,19,19,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,20
+Abr***,How***,136***,6,136,2,7,7,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+O'M***,How***,140***,2,129,2,13,13,0,Male,,,Not Hispanic Or Latino,false,false,false,1
+Eri***,How***,137***,6,138,2,5,5,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Eth***,Ing***,134***,1,131,1,13,13,0,Male,Black or African American,,,false,false,false,0
+Key***,Ing***,148***,8,125,3,7,7,10,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Kat***,Itz***,137***,8,143,0,2,2,0,Female,,,Hispanic Or Latino,false,false,false,0
+Sco***,Jac***,149***,0,105,0,40,40,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Isr***,Jac***,136***,5,100,4,11,11,27,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,30
+Mar***,Jac***,135***,6,139,2,4,4,0,Female,Black or African American,,,true,false,false,0
+May***,Jac***,143***,2,138,2,5,5,0,Female,Black or African American,,Hispanic Or Latino,false,false,true,0
+Nev***,Jac***,136***,1,130,1,7,7,6,Female,Black or African American,,,false,false,false,7
+Sky***,Jac***,142***,2,89,0,11,11,42,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,45
+Aam***,Jef***,137***,1,62,0,22,22,61,Female,Black or African American,,,false,false,false,61
+Mhi***,Jef***,144***,2,106,0,24,24,15,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,15
+Dom***,Jen***,187***,7,135,4,3,3,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Sha***,Jen***,145***,2,136,2,5,5,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Kam***,Jen***,150***,0,131,1,11,11,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Kob***,Jen***,145***,4,89,1,12,12,42,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,43
+Mia***,Jen***,139***,8,132,3,6,6,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Tre***,Jen***,260***,6,95,1,2,2,47,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,47
+Jew***,Jeu***,146***,4,130,6,6,6,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Cha***,Joh***,151***,7,84,2,25,25,27,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,34
+Chr***,Joh***,141***,8,137,0,5,5,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Da'***,Joh***,146***,2,122,1,20,20,2,Male,Black or African American,,Not Hispanic Or Latino,true,true,false,2
+Gen***,Joh***,152***,4,127,2,14,14,1,Female,Black or African American,,Hispanic Or Latino,false,false,false,2
+Ing***,Joh***,138***,1,96,1,8,8,39,Female,Black or African American,,,false,false,false,40
+Jac***,Joh***,139***,4,113,3,15,15,13,Male,Black or African American,,Not Specified,false,false,false,14
+Eli***,Joh***,234***,4,131,5,5,5,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Eri***,Joh***,246***,5,137,1,3,3,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Kay***,Joh***,188***,7,84,4,14,14,40,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,43
+Lei***,Joh***,153***,6,123,2,19,19,1,Female,Black or African American,,Hispanic Or Latino,false,false,false,1
+Mar***,Joh***,154***,6,126,2,16,16,1,Male,Black or African American,,Hispanic Or Latino,false,false,false,1
+Noa***,Joh***,140***,1,113,1,16,16,13,Male,Black or African American,,Not Specified,false,false,false,15
+Rue***,Joh***,138***,6,110,2,5,5,25,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,28
+Sav***,Joh***,220***,6,65,1,30,30,39,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,49
+Van***,Joh***,139***,6,132,2,11,11,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Za'***,Joh***,218***,8,129,3,10,10,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Jos***,Jon***,150***,3,93,1,37,37,12,Male,Black or African American,,Hispanic Or Latino,false,false,false,14
+Zar***,Jon***,137***,5,138,1,2,2,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Mes***,Jor***,155***,0,135,1,5,5,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Joc***,Jos***,189***,7,104,1,18,18,22,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,22
+Jor***,Jos***,145***,3,104,1,19,19,20,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,21
+Jer***,Jov***,176***,6,140,2,2,2,0,Male,,,Hispanic Or Latino,false,false,false,1
+Ant***,Jua***,141***,1,136,1,3,3,5,Male,White,,Hispanic Or Latino,false,false,true,5
+Jac***,Jua***,211***,2,137,2,2,2,4,Female,,,Hispanic Or Latino,false,false,true,4
+Neh***,Jui***,142***,1,87,1,22,22,35,Male,Black or African American,,,false,false,false,35
+Abi***,Jul***,147***,2,141,1,0,0,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,true,3
+Den***,Jul***,190***,7,139,2,0,0,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Gis***,Jul***,138***,5,139,1,2,2,3,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Mus***,Kam***,402***,6,110,5,5,5,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Jah***,Kea***,140***,5,139,1,4,4,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Dal***,Kei***,146***,3,140,1,4,4,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Chl***,Kem***,142***,8,138,1,5,5,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Ana***,Ker***,143***,1,121,1,7,7,16,Female,White,,,false,false,false,16
+Per***,Ker***,213***,2,119,0,9,9,17,Female,White,,Not Specified,false,false,false,17
+Cyr***,Ket***,142***,6,140,2,3,3,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Lau***,Ket***,143***,8,141,3,1,1,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Pro***,Kir***,344***,6,125,2,4,4,12,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Par***,Kno***,208***,2,118,1,24,24,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Gab***,Koo***,230***,3,112,1,3,3,16,Male,Black or African American,,Not Specified,false,false,false,19
+Jes***,Koo***,157***,0,118,0,9,9,14,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,18
+Jaz***,Kul***,192***,7,125,4,10,10,6,Female,,,Hispanic Or Latino,false,false,false,6
+Ken***,Las***,144***,4,90,5,24,24,22,Female,Black or African American,,,false,false,false,26
+Kal***,Lea***,145***,1,134,1,9,9,1,Female,Black or African American,,,false,false,false,1
+Dan***,Lee***,144***,8,132,3,7,7,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Ani***,LeG***,228***,6,111,2,11,11,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jaq***,Leo***,148***,2,116,2,20,20,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Sam***,Leo***,321***,7,123,6,10,10,6,Female,,,Hispanic Or Latino,false,false,false,6
+Tho***,Leo***,158***,0,133,0,12,12,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Ash***,Lew***,227***,6,123,2,9,9,10,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,11
+Kah***,Lew***,159***,7,139,2,4,4,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Tyr***,Lew***,153***,4,105,4,11,11,24,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,25
+Tyr***,Lew***,154***,4,104,3,13,13,24,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,25
+All***,Lim***,252***,3,130,2,12,12,1,Female,,,Hispanic Or Latino,false,false,true,1
+Mar***,Lim***,160***,0,126,1,17,17,1,Male,White,,Hispanic Or Latino,false,false,false,1
+Rei***,Lim***,185***,5,135,1,8,8,1,Male,,,Hispanic Or Latino,false,false,true,1
+Ka'***,Lin***,193***,7,123,4,12,12,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Aai***,Lit***,146***,8,140,1,3,3,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Bry***,Lit***,155***,4,143,1,0,0,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Zay***,Loc***,147***,8,103,2,6,6,31,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,34
+Eri***,Loj***,161***,0,141,0,3,3,1,Male,White,,Hispanic Or Latino,false,false,false,1
+Sus***,Lop***,157***,4,131,2,11,11,0,Male,,,Hispanic Or Latino,false,false,false,1
+Dyl***,Lop***,258***,6,143,2,0,0,0,Male,,,Hispanic Or Latino,false,false,false,0
+Emm***,Lop***,162***,0,111,0,21,21,11,Female,White,,Hispanic Or Latino,false,false,false,13
+Eva***,Lop***,149***,2,119,2,12,12,10,Female,,,Hispanic Or Latino,false,false,false,12
+Gir***,Lop***,323***,6,43,8,7,7,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Hai***,Lop***,259***,4,134,6,5,5,0,Female,,,Hispanic Or Latino,false,false,false,0
+Isi***,Lop***,140***,5,127,5,13,13,0,Female,,,Hispanic Or Latino,false,false,false,0
+Mia***,Lop***,150***,2,117,2,14,14,10,Female,,,Hispanic Or Latino,false,false,false,12
+Pab***,Lop***,163***,0,133,1,8,8,1,Male,White,,Hispanic Or Latino,false,false,false,3
+Ade***,Lop***,164***,0,138,1,6,6,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Jer***,Lop***,148***,8,128,0,17,17,0,Male,,,Hispanic Or Latino,false,false,false,0
+Mel***,Luc***,149***,8,137,3,5,5,0,Female,,,Hispanic Or Latino,false,false,false,0
+Nad***,Luc***,150***,8,108,3,20,20,12,Female,,,Hispanic Or Latino,false,false,false,14
+Ash***,Luc***,151***,8,130,0,15,15,0,Male,,,Hispanic Or Latino,false,false,false,0
+Mil***,Mac***,228***,7,131,4,7,7,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Leo***,Mac***,183***,2,134,2,8,8,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Tru***,Mac***,278***,3,133,1,10,10,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Alo***,Man***,165***,0,137,0,5,5,0,Male,White,,Hispanic Or Latino,false,false,false,3
+Hen***,Mar***,166***,0,131,0,13,13,0,Male,White,,Hispanic Or Latino,false,false,false,1
+Ale***,Mar***,146***,1,135,1,9,9,0,Male,White,,Hispanic Or Latino,false,false,true,0
+Car***,Mar***,147***,7,119,2,20,20,3,Male,White,,Hispanic Or Latino,false,false,false,4
+Edu***,Mar***,148***,1,126,1,18,18,0,Not Specified,White,,Hispanic Or Latino,false,false,true,0
+All***,Mar***,211***,3,132,3,10,10,0,Male,Not Specified,,Hispanic Or Latino,false,false,false,0
+Joe***,Mar***,212***,3,139,2,4,4,0,Male,Not Specified,,Hispanic Or Latino,false,false,false,0
+Mya***,Mar***,167***,0,127,0,16,16,2,Female,White,,Hispanic Or Latino,false,false,false,2
+Sam***,Mat***,147***,3,137,1,7,7,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Zay***,Mat***,168***,0,138,1,6,6,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+And***,Max***,323***,6,26,1,1,1,0,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,0
+Bri***,Max***,150***,4,130,6,6,6,1,Male,Black or African American,,,false,false,false,3
+Sky***,Max***,151***,1,123,0,5,5,2,Female,Black or African American,,,false,false,false,17
+Kay***,May***,152***,1,117,1,12,12,14,Male,Black or African American,,,false,false,false,15
+Myt***,May***,159***,4,119,2,12,12,12,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,12
+Cie***,McC***,272***,4,115,4,25,25,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Jai***,McC***,152***,8,100,1,9,9,33,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,35
+Jad***,McK***,154***,8,128,0,14,14,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Pey***,McL***,142***,5,133,1,4,4,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Sil***,McM***,153***,1,139,1,4,4,1,Male,Black or African American,,,false,false,false,1
+Sop***,McM***,147***,6,140,2,3,3,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Ale***,McN***,149***,3,137,3,4,4,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Mah***,McN***,144***,5,139,5,1,1,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Ala***,Mcn***,169***,0,134,0,1,1,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Mor***,Mcn***,170***,2,133,2,0,0,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Sar***,McR***,154***,1,128,1,2,2,14,Female,Black or African American,,,false,false,false,14
+Ang***,Mej***,150***,2,137,0,8,8,0,Female,,,Hispanic Or Latino,false,false,true,0
+Jes***,Mej***,209***,5,137,1,7,7,0,Female,,,Hispanic Or Latino,false,false,false,0
+Eme***,Men***,150***,6,137,2,6,6,0,Female,,,Hispanic Or Latino,false,false,false,0
+Yur***,Men***,229***,7,135,2,8,8,0,Female,,,Hispanic Or Latino,false,false,false,0
+Isa***,Mer***,145***,5,134,1,3,3,7,Female,,,Hispanic Or Latino,false,false,false,7
+Reu***,Mer***,160***,4,135,2,4,4,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Jaz***,Mez***,158***,6,136,2,6,6,1,Female,,,Hispanic Or Latino,false,false,false,1
+Aub***,Mid***,147***,4,140,2,3,3,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Pay***,Mid***,146***,5,137,1,7,7,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Chl***,Min***,161***,4,130,2,7,7,4,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Kam***,Min***,155***,1,117,1,27,27,0,Female,Black or African American,,Not Specified,false,false,false,0
+Jae***,Mit***,319***,8,103,0,15,15,24,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,27
+Mck***,Mit***,171***,0,140,0,4,4,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Ta'***,Mit***,152***,6,123,2,11,11,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,9
+Anj***,Mob***,172***,0,136,0,9,9,0,Female,Black or African American,,Hispanic Or Latino,false,false,false,0
+Bia***,Mon***,173***,0,125,1,17,17,2,Female,White,,Hispanic Or Latino,false,false,false,2
+Chr***,Mon***,152***,2,134,0,10,10,1,Male,,,Hispanic Or Latino,false,false,true,1
+Adr***,Mon***,174***,0,132,0,10,10,1,Male,White,,Hispanic Or Latino,false,false,false,3
+Kev***,Mon***,151***,2,138,2,3,3,0,Male,,,Hispanic Or Latino,false,false,true,2
+Emi***,Mon***,175***,6,103,1,15,15,24,Female,Black or African American,,Hispanic Or Latino,false,false,false,26
+Bry***,Mon***,156***,1,121,1,19,19,4,Male,American Indian or Alaska Native,,Hispanic Or Latino,false,false,true,4
+Dyl***,Mon***,152***,3,119,3,19,19,4,Male,,,Hispanic Or Latino,false,false,true,4
+Fab***,Mon***,148***,4,128,3,14,14,0,Male,,,Hispanic Or Latino,false,false,false,0
+Adi***,Mon***,176***,0,132,0,11,11,1,Female,White,,Hispanic Or Latino,false,false,false,2
+Kar***,Mon***,153***,3,139,2,3,3,1,Female,,,Hispanic Or Latino,false,false,true,1
+Nan***,Mon***,223***,6,134,4,4,4,2,Female,,,Hispanic Or Latino,false,false,false,3
+Kai***,Moo***,177***,0,121,1,17,17,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+San***,Moo***,158***,1,110,1,12,12,21,Female,Black or African American,,,false,false,false,22
+Zan***,Mor***,179***,0,50,0,7,7,85,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,88
+Zet***,Mor***,178***,1,48,0,7,7,87,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,90
+Eli***,Mor***,195***,7,132,1,11,11,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Eni***,Mor***,159***,1,132,1,11,11,1,Female,Black or African American,,,false,false,false,1
+Maa***,Mu'***,180***,0,113,1,12,12,17,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,19
+Jad***,Mur***,332***,8,138,3,2,2,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Jae***,Mur***,154***,3,130,3,11,11,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Jor***,Mur***,150***,5,133,1,8,8,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Mic***,Mur***,160***,1,84,1,6,6,54,Male,Black or African American,,,false,false,false,54
+Cel***,Mus***,163***,3,91,2,9,9,43,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,43
+Kat***,Mus***,153***,2,95,0,9,9,41,Female,,,Hispanic Or Latino,false,false,false,41
+Ky'***,Mye***,229***,7,112,2,16,16,15,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,15
+Dul***,Naj***,164***,4,131,6,8,8,0,Female,,,Hispanic Or Latino,false,false,false,0
+Yol***,Naj***,231***,7,135,4,6,6,0,Female,,,Hispanic Or Latino,false,false,false,0
+Cam***,Nar***,154***,6,109,1,19,19,15,Male,,,Hispanic Or Latino,false,false,false,16
+Don***,Nar***,156***,8,108,0,22,22,14,Male,,,Hispanic Or Latino,false,false,false,15
+Sop***,Nar***,151***,5,107,1,21,21,15,Female,,,Hispanic Or Latino,false,false,false,16
+Zal***,Naz***,211***,7,136,2,7,7,0,Male,,,Hispanic Or Latino,false,false,false,0
+Zio***,Naz***,153***,5,118,5,21,21,0,Male,,,Hispanic Or Latino,false,false,false,1
+Mel***,Naz***,152***,5,139,1,5,5,0,Female,,,Hispanic Or Latino,false,false,false,0
+D'A***,Nea***,161***,1,60,0,31,31,24,Female,Black or African American,,,false,false,false,54
+Day***,Nel***,162***,1,138,1,6,6,0,Male,Black or African American,,,false,false,false,0
+Nyl***,Nel***,157***,8,115,3,9,9,18,Female,Black or African American,,Not Hispanic Or Latino,false,true,false,18
+Sky***,Nel***,279***,3,133,3,9,9,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Kam***,New***,181***,0,131,0,13,13,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Gia***,Nio***,182***,0,103,1,18,18,21,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,23
+Jus***,Nio***,154***,5,118,2,4,4,19,Male,,,Hispanic Or Latino,false,false,false,21
+Eli***,Non***,158***,8,131,1,5,5,6,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Abr***,Och***,177***,6,137,2,4,4,0,Male,,,Hispanic Or Latino,false,false,false,2
+Hec***,Och***,155***,5,135,4,3,3,1,Male,,,Hispanic Or Latino,false,false,false,3
+Dan***,Oli***,154***,2,119,2,22,22,2,Male,,,Hispanic Or Latino,false,false,true,2
+Dyl***,Oli***,156***,3,116,1,25,25,3,Male,,,Hispanic Or Latino,false,false,true,3
+Ale***,Oli***,151***,8,143,0,2,2,0,Female,,,Hispanic Or Latino,false,false,false,0
+Adr***,Ort***,252***,7,139,1,3,3,1,Female,Black or African American,,Hispanic Or Latino,false,false,false,2
+Aid***,Ort***,155***,2,140,2,1,1,1,Male,Black or African American,,Hispanic Or Latino,false,false,false,2
+Azi***,Ort***,157***,2,141,0,2,2,1,Male,Black or African American,,Hispanic Or Latino,false,false,false,2
+Jon***,Ort***,158***,3,132,3,6,6,4,Male,,,Hispanic Or Latino,false,false,false,4
+Mar***,Ort***,183***,5,135,1,8,8,1,Female,White,,Hispanic Or Latino,false,false,false,1
+Seb***,Ort***,184***,0,137,1,6,6,1,Male,White,,Hispanic Or Latino,false,false,false,1
+Gab***,Oso***,196***,7,127,4,7,7,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Leo***,Ove***,165***,4,129,5,7,7,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Xav***,Owe***,185***,0,109,0,17,17,13,Male,Not Specified,,Not Specified,false,false,false,19
+Aye***,Pac***,156***,2,110,2,23,23,9,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Ale***,Pag***,165***,1,136,1,6,6,2,Female,Native Hawaiian or Other Pacific Islander,,Hispanic Or Latino,false,false,true,2
+Bry***,Pag***,301***,6,118,5,1,1,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Dan***,Pag***,166***,1,137,1,5,5,2,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,true,2
+Ash***,Pag***,218***,8,141,1,2,2,1,Female,White,,Hispanic Or Latino,false,false,false,1
+Jam***,Pag***,166***,4,135,4,5,5,1,Male,,,Hispanic Or Latino,false,false,true,1
+Mas***,Pai***,214***,4,121,4,16,16,2,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,4
+Jos***,Pal***,197***,7,125,3,9,9,8,Male,,,Hispanic Or Latino,false,false,true,8
+Cal***,Pal***,157***,2,130,2,13,13,0,Male,,,Hispanic Or Latino,false,false,true,0
+Mar***,Pal***,167***,1,121,1,9,9,13,Male,White,,Hispanic Or Latino,false,false,false,14
+Ren***,Pal***,167***,4,113,6,11,11,14,Female,,,Hispanic Or Latino,false,false,true,15
+Dal***,Pal***,168***,1,126,1,9,9,9,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,true,9
+Sam***,Pat***,159***,3,105,2,12,12,21,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,26
+Kam***,Pat***,187***,0,107,0,13,13,20,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,25
+Ali***,Pax***,187***,5,125,1,8,8,11,Female,,,Hispanic Or Latino,false,false,false,11
+Ant***,Pax***,158***,2,122,2,10,10,10,Male,Not Specified,,Not Specified,false,false,true,11
+Sam***,Pax***,188***,0,125,1,8,8,11,Female,White,,Hispanic Or Latino,false,false,false,11
+Car***,Pec***,210***,8,120,2,13,13,9,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+How***,Pen***,159***,2,137,0,8,8,0,Male,,,Hispanic Or Latino,false,false,true,0
+Zoe***,Pen***,168***,4,131,4,10,10,0,Female,,,Hispanic Or Latino,false,false,false,0
+Cam***,Per***,160***,3,128,1,15,15,1,Female,,,Hispanic Or Latino,false,false,true,1
+Del***,Per***,157***,6,137,2,6,6,0,Female,,,Hispanic Or Latino,false,false,false,0
+Joe***,Per***,207***,7,134,4,7,7,0,Female,,,Hispanic Or Latino,false,false,false,0
+Isa***,Per***,169***,4,137,2,6,6,0,Male,Black or African American,,Hispanic Or Latino,false,false,false,0
+Bri***,Per***,161***,3,137,2,6,6,0,Female,,,Hispanic Or Latino,false,false,true,0
+Ang***,Per***,189***,0,131,0,14,14,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Gra***,Per***,169***,4,135,2,6,6,2,Female,,,Hispanic Or Latino,false,false,false,2
+Les***,Per***,160***,6,136,4,5,5,0,Female,,,Hispanic Or Latino,false,false,false,0
+Lia***,Per***,362***,8,137,1,6,6,1,Male,,,Hispanic Or Latino,false,true,false,1
+Esn***,Per***,157***,5,140,5,0,0,0,Female,,,Hispanic Or Latino,false,false,false,0
+Khe***,Per***,162***,3,127,2,8,8,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Jai***,Pet***,160***,2,50,0,3,3,89,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,92
+Nev***,Pet***,199***,6,133,1,10,10,0,Female,Black or African American,,Not Hispanic Or Latino,true,true,false,1
+Sav***,Pet***,170***,1,132,1,11,11,1,Female,Black or African American,,,false,false,false,1
+Tay***,Pet***,200***,7,133,5,6,6,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Roy***,Phe***,190***,0,84,1,14,14,46,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,46
+Lex***,Pic***,158***,4,131,6,8,8,0,Female,,,Hispanic Or Latino,true,false,false,0
+Jaz***,Pin***,216***,6,126,4,9,9,5,Female,Black or African American,,Hispanic Or Latino,false,false,false,6
+Ash***,Pin***,163***,3,139,3,2,2,0,Female,,,Hispanic Or Latino,false,false,true,1
+Chr***,Por***,214***,1,133,1,11,11,0,Male,Not Specified,,Hispanic Or Latino,false,false,false,0
+Kha***,Por***,161***,5,135,5,4,4,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Gab***,Por***,162***,2,137,0,6,6,2,Female,,,Hispanic Or Latino,false,false,false,2
+Gae***,Por***,170***,4,126,4,14,14,1,Male,,,Hispanic Or Latino,false,false,true,1
+Isa***,Por***,159***,5,137,1,5,5,2,Female,,,Hispanic Or Latino,false,false,false,2
+Hea***,Pot***,163***,2,138,0,7,7,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Dev***,Pre***,191***,2,90,1,2,2,50,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,52
+Fai***,Pre***,192***,0,91,0,2,2,50,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,52
+Tev***,Pre***,193***,3,89,0,4,4,49,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,52
+San***,Pre***,201***,7,130,2,3,3,10,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Tah***,Pre***,171***,4,131,2,2,2,10,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Ras***,Pri***,160***,8,126,3,16,16,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Sha***,Pri***,208***,3,132,3,10,10,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jen***,Pro***,162***,6,142,2,1,1,0,Female,,,Hispanic Or Latino,false,false,false,0
+Alp***,Que***,221***,8,135,3,5,5,2,Male,Black or African American,,Not Specified,false,false,false,2
+Ama***,Rab***,163***,6,139,2,4,4,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Sal***,Rag***,164***,2,140,0,4,4,1,Female,White,,Not Hispanic Or Latino,false,false,false,1
+Lui***,Ram***,323***,3,61,3,3,3,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Rob***,Ram***,171***,1,110,1,20,20,12,Male,White,,Hispanic Or Latino,true,false,true,14
+Jor***,Ram***,165***,6,127,4,13,13,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Ale***,Ram***,165***,2,136,1,6,6,2,Male,,,Hispanic Or Latino,false,false,true,2
+Ala***,Ran***,160***,5,117,1,15,15,12,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,12
+Ari***,Rav***,166***,6,142,2,1,1,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Zah***,Red***,223***,6,115,4,25,25,0,Male,Black or African American,American Indian or Alaska Native,Not Hispanic Or Latino,false,false,false,1
+Ja'***,Ree***,172***,5,60,1,28,28,23,Female,Black or African American,,,false,false,false,56
+Ja'***,Ree***,174***,7,108,2,9,9,21,Female,White,,Hispanic Or Latino,false,false,false,26
+Jos***,Ree***,222***,5,132,1,8,8,1,Male,Black or African American,,Hispanic Or Latino,false,false,false,4
+Zai***,Ree***,351***,7,137,2,5,5,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Zan***,Ree***,172***,4,135,4,5,5,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Mar***,Ret***,173***,4,140,4,1,1,0,Female,,,Hispanic Or Latino,false,false,true,0
+Sam***,Ret***,228***,7,139,4,2,2,0,Female,,,Hispanic Or Latino,false,false,false,0
+Ale***,Rev***,274***,7,136,4,5,5,0,Female,,,Hispanic Or Latino,false,false,false,0
+Dia***,Rev***,175***,1,141,1,3,3,0,Male,Black or African American,,,false,false,true,0
+Ari***,Rey***,167***,6,131,2,12,12,0,Female,,,Hispanic Or Latino,false,false,false,0
+Mek***,Ric***,174***,4,128,6,6,6,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Dav***,Rie***,190***,4,129,6,10,10,0,Male,,,Hispanic Or Latino,false,true,false,0
+Gia***,Rie***,199***,8,140,1,4,4,0,Female,,,Hispanic Or Latino,false,false,false,0
+Jay***,Riv***,194***,4,85,5,13,13,40,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,42
+Jua***,Riv***,241***,8,132,1,5,5,7,Male,,,Hispanic Or Latino,false,false,true,7
+Mic***,Riv***,166***,2,135,1,8,8,1,Male,,,Hispanic Or Latino,false,false,false,1
+Ama***,Rob***,184***,6,92,1,32,32,19,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,20
+Iya***,Rob***,169***,6,128,2,15,15,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jah***,Rob***,200***,1,73,3,23,23,45,Not Specified,Not Specified,,Not Specified,false,false,false,46
+Jer***,Rob***,236***,5,129,1,14,14,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Jos***,Rob***,202***,7,123,6,13,13,2,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,3
+Nil***,Rob***,177***,4,131,4,10,10,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Noa***,Rob***,176***,1,133,1,11,11,0,Male,Black or African American,,Not Specified,false,false,false,0
+Sev***,Rob***,195***,0,134,1,8,8,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Val***,Rob***,161***,5,135,1,5,5,4,Female,,,Hispanic Or Latino,false,false,false,4
+Dan***,Rod***,196***,0,134,1,10,10,0,Female,White,,Hispanic Or Latino,false,false,false,0
+Ang***,Rod***,177***,1,137,1,6,6,1,Female,Not Specified,,Hispanic Or Latino,false,false,false,1
+Val***,Rod***,167***,2,123,2,13,13,6,Female,,,Hispanic Or Latino,false,false,true,7
+Dav***,Rod***,221***,6,109,2,13,13,19,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,21
+Jol***,Rod***,222***,6,105,1,14,14,24,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,25
+Dan***,Rod***,197***,0,128,0,13,13,4,Female,White,,Hispanic Or Latino,false,false,false,4
+Dio***,Rod***,210***,6,133,4,6,6,2,Female,,,Hispanic Or Latino,false,false,false,2
+Iri***,Rod***,178***,4,125,2,14,14,4,Female,,,Hispanic Or Latino,false,false,false,4
+Jhe***,Rod***,215***,4,134,3,4,4,4,Male,,,Hispanic Or Latino,false,false,true,4
+Jan***,Rod***,169***,5,101,1,15,15,26,Female,Black or African American,,Hispanic Or Latino,false,true,false,28
+Jay***,Rod***,235***,4,102,3,11,11,27,Male,Black or African American,,Hispanic Or Latino,false,false,false,29
+Dre***,Rog***,163***,5,135,1,7,7,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Jai***,Rog***,169***,2,121,2,14,14,6,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Jay***,Rog***,175***,4,128,4,11,11,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Jon***,Rog***,170***,1,129,1,11,11,4,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,4
+MiY***,Rog***,179***,1,85,1,27,27,31,Female,Black or African American,,Not Specified,false,false,false,32
+Lui***,Rol***,181***,7,114,4,12,12,14,Female,,,Hispanic Or Latino,false,false,false,15
+Lev***,Rom***,198***,0,133,0,9,9,2,Male,White,,Hispanic Or Latino,false,false,false,3
+Nay***,Rom***,204***,7,129,4,11,11,0,Female,,,Hispanic Or Latino,false,false,false,1
+Jos***,Ron***,172***,2,69,0,36,36,38,Male,,,Hispanic Or Latino,false,false,true,40
+Aid***,Ros***,209***,7,102,5,11,11,27,Male,Not Specified,,Hispanic Or Latino,false,false,false,27
+Ari***,Ros***,199***,5,109,4,7,7,25,Female,White,,Hispanic Or Latino,false,false,false,25
+Isa***,Ros***,201***,0,129,0,14,14,1,Male,Black or African American,,Hispanic Or Latino,false,false,false,2
+Nol***,Ros***,173***,2,130,2,8,8,5,Male,Black or African American,,Hispanic Or Latino,false,false,true,5
+Axe***,Ros***,323***,6,43,7,8,8,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Pae***,Ros***,200***,1,142,1,2,2,0,Female,Black or African American,,Hispanic Or Latino,false,false,false,0
+Mil***,Ros***,202***,6,134,2,4,4,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Ame***,Row***,230***,7,125,6,6,6,7,Female,Black or African American,,Not Hispanic Or Latino,true,false,false,8
+Mar***,Row***,184***,3,134,1,6,6,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Lui***,Saj***,205***,7,138,4,3,3,0,Male,,,Hispanic Or Latino,false,false,false,0
+Sco***,Sal***,171***,2,85,1,25,25,28,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,34
+Gre***,Sam***,206***,7,121,2,20,20,0,Male,,,Hispanic Or Latino,false,false,false,2
+Mel***,San***,203***,0,140,0,3,3,0,Female,White,,Hispanic Or Latino,false,false,false,2
+Ale***,San***,192***,3,131,3,8,8,3,Male,,,Hispanic Or Latino,false,false,true,3
+Mik***,San***,174***,2,136,0,7,7,2,Male,,,Hispanic Or Latino,false,false,true,2
+Rav***,Sar***,192***,6,141,2,2,2,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jan***,Saw***,170***,6,135,2,2,2,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Jer***,Saw***,246***,8,132,3,4,4,5,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,6
+Gam***,She***,164***,7,126,3,11,11,4,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,5
+Joe***,Shi***,180***,4,130,2,13,13,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Ima***,Sho***,165***,8,134,1,8,8,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Kai***,Sho***,171***,6,124,3,16,16,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Zay***,Sho***,165***,4,133,2,9,9,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Noi***,Shu***,203***,1,111,1,11,11,21,Female,Not Specified,,Not Specified,false,false,false,22
+Jax***,Shy***,214***,3,139,1,1,1,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Kad***,Shy***,166***,7,127,6,5,5,7,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,7
+Kal***,Shy***,210***,7,133,2,3,3,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Kam***,Shy***,167***,8,133,3,2,2,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Ant***,Sig***,183***,1,127,1,14,14,0,Male,White,,Hispanic Or Latino,false,false,true,3
+Eve***,Sig***,184***,4,127,4,11,11,0,Male,White,,Hispanic Or Latino,false,false,false,3
+Zay***,Sil***,175***,2,129,0,8,8,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Ang***,Sil***,164***,5,134,5,5,5,1,Female,,,Hispanic Or Latino,false,false,false,1
+Syd***,Sil***,202***,1,129,1,13,13,0,Female,Not Specified,,Not Specified,false,false,false,2
+Arm***,Sim***,181***,3,76,0,13,13,56,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,56
+Ya'***,Sim***,168***,8,123,3,9,9,8,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,10
+Zah***,Sim***,165***,5,112,1,16,16,14,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,16
+Ja'***,Sin***,204***,0,142,1,2,2,0,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,0
+Tay***,Sip***,182***,4,129,4,9,9,2,Female,Black or African American,,Hispanic Or Latino,false,false,false,3
+Tie***,Sip***,166***,5,124,4,15,15,2,Female,Black or African American,,Hispanic Or Latino,false,false,false,2
+Jaz***,Sla***,169***,8,136,3,5,5,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Cam***,Smi***,327***,7,138,4,3,3,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Cam***,Smi***,622***,6,139,4,2,2,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Kai***,Smi***,211***,7,124,1,15,15,5,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Lar***,Smi***,170***,3,122,1,9,9,13,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,13
+Mas***,Smi***,205***,0,79,0,11,11,55,Male,Black or African American,,Hispanic Or Latino,false,false,false,55
+Sha***,Smi***,167***,5,135,1,7,7,0,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,2
+Sha***,Smi***,187***,8,121,1,20,20,0,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,3
+Sha***,Smi***,185***,1,129,1,13,13,0,Female,Black or African American,,,false,false,false,2
+Mek***,Som***,168***,4,137,4,1,1,3,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+All***,Sor***,187***,1,130,1,12,12,2,Female,White,,Hispanic Or Latino,false,false,true,2
+Seb***,Sos***,169***,5,138,5,2,2,0,Male,,,Hispanic Or Latino,false,false,false,0
+Xza***,Sot***,300***,3,105,2,9,9,8,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Hea***,Spo***,194***,7,127,5,4,4,9,Female,Black or African American,White,Not Hispanic Or Latino,false,false,false,9
+Nat***,Spo***,183***,4,124,5,6,6,9,Female,White,Black or African American,Not Hispanic Or Latino,false,false,false,10
+Sha***,Ste***,172***,6,129,3,12,12,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Ger***,Ste***,247***,5,127,1,9,9,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Nao***,Ste***,206***,0,117,0,11,11,17,Female,Black or African American,,Hispanic Or Latino,false,false,false,17
+Lam***,Ste***,212***,7,106,2,13,13,23,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,24
+Isa***,Sto***,170***,8,134,3,5,5,3,Male,Black or African American,,Not Hispanic Or Latino,false,true,false,3
+Kam***,Sto***,197***,7,100,4,11,11,29,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,30
+Jus***,Sua***,404***,6,116,5,3,3,0,Male,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,0
+Ayr***,Sud***,171***,8,125,0,8,8,11,Female,,,Hispanic Or Latino,false,false,false,12
+Jay***,Sud***,173***,6,119,2,13,13,10,Female,White,,Hispanic Or Latino,false,false,false,11
+San***,Syp***,172***,8,115,1,5,5,22,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,24
+Wya***,Tai***,176***,2,110,2,33,33,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jos***,Taj***,206***,8,135,1,8,8,1,Male,Not Specified,,Hispanic Or Latino,false,false,false,1
+Car***,Tax***,170***,5,139,1,2,2,0,Male,,,Hispanic Or Latino,false,false,true,3
+Ros***,Tax***,374***,8,133,0,11,11,0,Female,,,Hispanic Or Latino,false,false,false,1
+Bra***,Tel***,188***,8,138,0,7,7,0,Male,,,Hispanic Or Latino,false,false,false,0
+Ale***,Teo***,172***,3,141,2,1,1,1,Female,,,Hispanic Or Latino,false,false,false,1
+Byr***,Tho***,184***,4,137,2,6,6,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Egy***,Tho***,407***,4,111,6,5,5,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Han***,Tho***,174***,8,140,0,4,4,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Kew***,Tho***,216***,3,129,1,10,10,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,5
+Vic***,Tho***,400***,8,109,0,14,14,1,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Gab***,Tif***,208***,0,117,0,25,25,2,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Tan***,Tif***,178***,2,124,2,4,4,15,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,15
+Jae***,Tin***,273***,6,117,2,9,9,15,Female,,,Hispanic Or Latino,true,false,false,17
+Jor***,Tin***,188***,5,107,5,9,9,22,Male,,,Hispanic Or Latino,false,false,false,24
+Jul***,Tin***,231***,7,96,6,20,20,21,Male,,,Hispanic Or Latino,true,false,false,23
+Mia***,Tin***,179***,2,118,2,8,8,15,Female,,,Hispanic Or Latino,false,false,true,17
+Ala***,Tis***,171***,5,142,1,1,1,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Jay***,Tol***,256***,3,99,2,5,5,36,Female,,,Hispanic Or Latino,false,false,true,39
+Sor***,Tol***,189***,1,67,1,28,28,38,Female,White,,Hispanic Or Latino,false,false,false,49
+Sta***,Tra***,176***,8,141,3,1,1,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Jas***,Tur***,174***,3,52,1,9,9,78,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,83
+Jay***,Tur***,190***,1,136,1,7,7,1,Female,Black or African American,,,false,false,false,1
+Ian***,Uce***,209***,0,122,0,23,23,0,Male,White,,Hispanic Or Latino,false,false,false,0
+Jea***,Ure***,217***,4,137,2,6,6,0,Male,,,Hispanic Or Latino,false,false,false,0
+Lea***,Ure***,191***,1,139,1,5,5,0,Female,White,,Hispanic Or Latino,false,false,true,0
+Isa***,Url***,216***,7,88,4,30,30,22,Female,,,Hispanic Or Latino,false,false,false,23
+Che***,Uz****,192***,1,138,1,6,6,0,Female,White,,Hispanic Or Latino,false,false,true,0
+Jos***,Uz-***,175***,3,137,3,5,5,0,Male,,,Hispanic Or Latino,false,false,false,0
+Kat***,Val***,175***,6,138,2,4,4,1,Female,,,Hispanic Or Latino,false,false,false,1
+Gab***,Val***,210***,0,140,0,5,5,0,Female,Black or African American,,Hispanic Or Latino,false,false,false,0
+Gab***,Val***,185***,4,125,5,12,12,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,3
+Sam***,Val***,217***,7,127,6,8,8,1,Male,,,Hispanic Or Latino,true,false,false,4
+Sop***,Val***,218***,7,127,4,9,9,1,Female,,,Hispanic Or Latino,false,false,false,5
+Gia***,Var***,172***,4,120,6,18,18,1,Female,,,Hispanic Or Latino,true,false,false,1
+Ped***,Var***,345***,8,125,3,13,13,4,Male,,,Hispanic Or Latino,false,false,false,4
+Aim***,Var***,176***,3,136,1,8,8,0,Female,,,Hispanic Or Latino,false,false,false,0
+Ste***,Vas***,218***,5,134,1,7,7,0,Male,,,Hispanic Or Latino,false,false,true,3
+And***,Vau***,502***,6,59,1,14,14,5,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Mic***,Vaz***,180***,2,64,0,10,10,8,Male,Black or African American,,Hispanic Or Latino,false,false,false,71
+Yan***,Veg***,220***,6,137,2,4,4,0,Male,,,Hispanic Or Latino,true,false,false,2
+Ant***,Vel***,182***,3,134,1,9,9,0,Male,,,Hispanic Or Latino,false,false,false,1
+Jer***,Vel***,211***,0,133,0,11,11,0,Male,White,,Hispanic Or Latino,false,false,false,1
+Alo***,Ven***,212***,0,132,1,11,11,1,Male,Black or African American,,Hispanic Or Latino,false,false,false,1
+Mia***,Vil***,193***,1,123,1,6,6,12,Female,American Indian or Alaska Native,,Hispanic Or Latino,false,false,false,15
+Jay***,Vil***,178***,8,140,1,4,4,0,Female,,,Hispanic Or Latino,false,false,false,0
+Ang***,Viz***,194***,1,133,0,11,11,1,Female,White,,Hispanic Or Latino,false,false,false,1
+Ant***,Viz***,186***,8,134,1,7,7,0,Male,,,Hispanic Or Latino,false,false,true,3
+Jos***,Viz***,183***,3,138,2,4,4,0,Male,,,Hispanic Or Latino,false,false,true,1
+Sar***,Wal***,195***,1,128,1,15,15,1,Female,Black or African American,,,false,false,false,1
+Ama***,War***,223***,5,116,1,16,16,12,Male,Black or African American,,Not Hispanic Or Latino,true,false,false,12
+Jou***,Was***,222***,7,136,4,5,5,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Azi***,Wea***,244***,5,134,1,8,8,2,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Jay***,Web***,223***,4,100,2,11,11,32,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,32
+Joy***,Wen***,223***,7,135,4,2,2,0,Female,,,Not Hispanic Or Latino,false,false,false,4
+Jab***,Whi***,173***,4,119,4,20,20,0,Male,Not Specified,,Not Specified,false,false,false,2
+Ive***,Whi***,186***,3,62,2,54,54,26,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,27
+Jam***,Whi***,257***,8,130,3,10,10,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,2
+Mic***,Wil***,177***,6,128,4,9,9,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Bra***,Wil***,213***,0,132,0,9,9,4,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,4
+Dea***,Wil***,180***,3,123,1,12,12,8,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,9
+Eli***,Wil***,182***,2,106,1,14,14,22,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,24
+Mar***,Wil***,249***,4,141,2,2,2,0,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Mar***,Wil***,224***,6,111,2,21,21,10,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,11
+Ma'***,Wil***,174***,5,71,0,8,8,10,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,66
+Mi'***,Wil***,196***,1,117,1,22,22,4,Female,Black or African American,,,false,false,false,5
+Sam***,Wil***,198***,1,87,1,20,20,37,Female,Black or African American,,,false,false,false,37
+Tom***,Wil***,179***,5,135,1,7,7,2,Male,Black or African American,,Hispanic Or Latino,true,false,false,2
+Xza***,Wil***,197***,1,112,0,7,7,21,Male,Black or African American,,,false,false,false,26
+Kin***,Wil***,214***,1,107,1,30,30,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Zam***,Wil***,187***,4,108,2,28,28,7,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,7
+Nic***,Win***,190***,7,140,4,1,1,0,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,0
+Ang***,Wom***,225***,7,128,2,1,1,13,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,14
+Jad***,Woo***,180***,8,129,3,5,5,7,Female,Black or African American,,Not Hispanic Or Latino,false,false,false,8
+Mel***,Wor***,226***,7,139,2,3,3,1,Male,Black or African American,,Not Hispanic Or Latino,false,false,false,1
+Kat***,Xe****,199***,1,118,1,11,11,14,Female,White,,,false,false,true,15
+Car***,Yan***,188***,4,128,2,14,14,0,Male,,,Hispanic Or Latino,false,false,false,1
+Jul***,Yan***,181***,8,137,0,6,6,1,Male,,,Hispanic Or Latino,false,false,false,2
+Jus***,Yan***,215***,7,142,2,0,0,1,Male,White,,,false,false,false,1
+Kat***,Zap***,189***,4,120,5,19,19,0,Female,,,Hispanic Or Latino,false,false,false,1
